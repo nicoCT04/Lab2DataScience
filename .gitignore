@@ -1,0 +1,22 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos / artefactos pesados generados en el entrenamiento
+*.keras
+*.h5
+models/
+
+# Sistema operativo / editores
+.DS_Store
+.vscode/
+.idea/
