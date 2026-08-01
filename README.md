@@ -9,8 +9,8 @@ exclusivamente académico.
 
 - [x] **Avance (pasaporte)** — Ejercicio 1: ≥2 modelos LSTM por serie con tuneo de hiperparámetros,
       selección del mejor, predicción y comparación con el Lab 1. → `notebooks/Lab2_LSTM.ipynb`
-- [~] **Ejercicio 2.14** — nuevo LSTM con características de catch22 (serie Aérea). → `notebooks/Lab2_LSTM.ipynb`
-- [ ] **Ejercicio 2.1–2.13** — extracción catch22 para las 7 series, matriz, PCA, clustering,
+- [x] **Ejercicio 2.14** — nuevo LSTM con características de catch22 (serie Aérea). → `notebooks/Lab2_LSTM.ipynb`
+- [x] **Ejercicio 2.1–2.13** — extracción catch22 para las 7 series, matriz, PCA, clustering,
       heatmaps, matriz de distancias e interpretación. → `notebooks/Lab2_catch22.ipynb`
 
 ## Contenido
@@ -22,7 +22,7 @@ exclusivamente académico.
 │   └── series.py                               # construcción de las 7 series (compartido)
 ├── notebooks/
 │   ├── Lab2_LSTM.ipynb                          # Ej.1 (LSTM Total y Aérea) + Ej.2.14 (LSTM con catch22)
-│   └── Lab2_catch22.ipynb                       # Ej.2.1–2.13 — exploración catch22  [pendiente]
+│   └── Lab2_catch22.ipynb                       # Ej.2.1–2.13 — exploración catch22
 ├── Laboratorio 2. Deep Learning_Series.pdf      # enunciado
 └── README.md
 ```
